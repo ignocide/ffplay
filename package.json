@@ -1,0 +1,13 @@
+{
+  "name": "node-ffplay",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/ignocide/node-ffplay.git",
+  "author": "sungmin kim <ignocide@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^13.9.0",
+    "typescript": "^3.8.3"
+  }
+}
